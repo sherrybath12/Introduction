@@ -11,8 +11,8 @@ layout: default
 - 🌱 `I'm a Product Lead, Content Writer and a Technology Enthusiast.`
 - 🎯 `I am passionate about working with APIs and its documentation.`
 - 🥅 `I love exploring new things in technology.`
-- 📕 `I aim to further organization growth with my technical/writing skills.`
-- ⚡ `I love hiking and cooking.`
+- - ⚡ `I love hiking and cooking.`
+- 📕 `I strive to boost organizational growth with my technical/writing skills.`
 
 ### Technology Stack:
 
