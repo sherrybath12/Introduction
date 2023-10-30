@@ -16,21 +16,21 @@ layout: default
 
 ### Technology Stack:
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `User Guides, Developer Documentation, Release Notes, How-To's, SDKs, SOPs, Reports, Manuals`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `SoapUI, Postman, Rest API, Swagger, Open API`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `AWS Technologies - EC2, S3, CloudWatch, Data Lake, Athena`
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `Azure and Big Data Technologies - Azure Service Bus, Azure Data Lake, Azure Active Directory, Kafka, Elastic Search`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `JavaScript, NodeJS, C#, Git, VSCode, Cypress, Gherkin`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `JSON, XML, CSV, HTML, CSS, Markdown`
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `Visio, SnagIT, Figma, Confluence, Oxygen, RoboHelp`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Agile, Scrum, Kanban`
+- 💡 `User Guides, Developer Documentation, Release Notes, How-To's, SDKs, SOPs, Reports, Manuals`
+- 💡 `SoapUI, Postman, Rest API, Swagger, Open API`
+- 💡 `AWS Technologies - EC2, S3, CloudWatch, Data Lake, Athena`
+- 💡 `Azure and Big Data Technologies - Azure Service Bus, Azure Data Lake, Azure Active Directory, Kafka, Elastic Search`
+- 💡 `JavaScript, NodeJS, C#, Git, VSCode, Cypress, Gherkin`
+- 💡 `JSON, XML, CSV, HTML, CSS, Markdown`
+- 💡 `Visio, SnagIT, Figma, Confluence, Oxygen, RoboHelp`
+- 💡 `Agile, Scrum, Kanban`
 
 ### Certifications
 
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `AWS Certified Cloud Practitioner`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#Microsoft Certified Azure Fundamentals `
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `International Standards for Testing and Quality`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `Agile SAFE Practitioner`
+- ✅ `AWS Certified Cloud Practitioner`
+- ✅ `#Microsoft Certified Azure Fundamentals `
+- ✅ `International Standards for Testing and Quality`
+- ✅ `Agile SAFE Practitioner`
 
 ### Connect with me
 
