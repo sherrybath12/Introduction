@@ -11,7 +11,7 @@ layout: default
 - 🌱 `I'm a Product Lead, Content Writer and a Technology Enthusiast.`
 - 🎯 `I am passionate about working with APIs and its documentation.`
 - 🥅 `I love exploring new things in technology.`
-- 📕 `I aim to further an organization's growth with my technical & writing skills.`
+- 📕 `I aim to further organization growth with my technical/writing skills.`
 - ⚡ `I love hiking and cooking.`
 
 ### Technology Stack:
@@ -20,7 +20,7 @@ layout: default
 - 💡 `API Documentation, SDKs, SOPs, Reports, Manuals`
 - 💡 `SoapUI, Postman, Rest API, Swagger, Open API`
 - 💡 `AWS Technologies - EC2, S3, CloudWatch, Data Lake, Athena`
-- 💡 `Azure Technologies - Azure Service Bus, Azure Data Lake, Active Directory`
+- 💡 `Azure Technologies - Azure Service Bus, Data Lake, Active Directory`
 - 💡 `Big Data Technologies - Kafka, Elastic Search, YARN`
 - 💡 `JavaScript, NodeJS, C#, Git, VSCode, Cypress, Gherkin`
 - 💡 `JSON, XML, CSV, HTML, CSS, Markdown`
