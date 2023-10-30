@@ -4,9 +4,9 @@ permalink: /
 layout: default
 ---
 
-## Hi there, I'm Sherry Bath <div align = 'right'>
+## Hi there, I'm Sherry Bath
 
-## Introduction
+### Introduction
 
 - 🌱 `I'm a Product Lead, Content Writer and a Technology Enthusiast.`
 - 🎯 `I am passionate about working with APIs and its documentation.`
@@ -27,10 +27,10 @@ layout: default
 
 ### Certifications
 
-- ![#1589F0](https://www.iconsdb.com/icons/download/color/1589F0/circle-16.png) `AWS Certified Cloud Practitioner`
-- ![#1589F0](https://www.iconsdb.com/icons/download/color/1589F0/circle-16.png) `#Microsoft Certified Azure Fundamentals `
-- ![#1589F0](https://www.iconsdb.com/icons/download/color/1589F0/circle-16.png) `International Standards for Testing and Quality`
-- ![#1589F0](https://www.iconsdb.com/icons/download/color/1589F0/circle-16.png) `Agile SAFE Practitioner`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `AWS Certified Cloud Practitioner`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#Microsoft Certified Azure Fundamentals `
+- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `International Standards for Testing and Quality`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `Agile SAFE Practitioner`
 
 ### Connect with me
 
