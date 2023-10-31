@@ -4,6 +4,7 @@ permalink: /
 layout: default
 ---
 
+[<img src="assets/home.jpg" height="50" width="50">](https://sherrybath12.github.io/Hello-World/)
 ## Hi there, I'm Sherry Bath
 
 ### Introduction
