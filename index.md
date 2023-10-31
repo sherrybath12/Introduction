@@ -24,14 +24,14 @@ layout: default
 - 💡 `Azure Technologies - Azure Service Bus, Data Lake, Active Directory`
 - 💡 `Big Data Technologies - Kafka, Elastic Search, YARN`
 - 💡 `JavaScript, NodeJS, C#, Git, VSCode, Cypress, Gherkin`
-- 💡 `JSON, XML, CSV, HTML, CSS, Markdown`
+- 💡 `JSON, XML, CSV, HTML, CSS, PDF, DITA, Markdown`
 - 💡 `Visio, SnagIT, Figma, Confluence, Oxygen, RoboHelp`
 - 💡 `Methodologies - Agile, Scrum, Kanban`
 
 ### Certifications
 
 - ✅ `AWS Certified Cloud Practitioner`
-- ✅ `#Microsoft Certified Azure Fundamentals `
+- ✅ `Microsoft Certified Azure Fundamentals `
 - ✅ `International Standards for Testing and Quality`
 - ✅ `Agile SAFE Practitioner`
 
