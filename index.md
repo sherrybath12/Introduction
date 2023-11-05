@@ -1,5 +1,5 @@
 ---
-Title: "Introduction"
+Title: "About Me"
 permalink: /
 layout: default
 ---
