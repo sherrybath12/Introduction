@@ -4,12 +4,12 @@ permalink: /
 layout: default
 ---
 
-[<img src="assets/home.jpg" height="50" width="50">](https://sherrybath12.github.io/Hello-World/)
+[<img src="assets/home.jpg" height="50" width="50">](https://sherrybath12.github.io/portfolio/)
 ## Hi there, I'm Sherry Bath
 
 ### Introduction
 
-- 🌱 `I'm a Product Lead, Content Writer and a Technology Enthusiast.`
+- 🌱 `I'm a QA Lead, Content Writer and a Technology Enthusiast.`
 - 🎯 `I am passionate about working with APIs and its documentation.`
 - 🥅 `I love exploring new things in technology.`
 - ⚡ `I love hiking and cooking.`
